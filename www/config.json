@@ -1,6 +1,6 @@
 {
-    "app_id" : "com.mysalesmate",
-    "appname": "MySalesMate Traiing",
+    "app_id" : "com.mysalesmate.mobile",
+    "appname": "MySalesMate Mobile",
     "versioncode" : "2018",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
